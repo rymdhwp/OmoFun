@@ -10,7 +10,7 @@
 <p>⚠ <strong>温馨提示</strong>：网址前请确保添加 “https://”，以确保更顺畅访问。</p>
 
 <h3>
-  <strong>📌 GreasyFork（油叉）最新访问地址：</strong>
+  <strong>📌 OmoFun动漫最新访问地址：</strong>
 </h3>
 
 <p> <strong>一键访问</strong> ：<a href="https://omofun.wwwnav.com/"target="_blank">最新官网入口</a></p>
